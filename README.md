@@ -26,3 +26,25 @@ Note: Educational prototype with simplified parameters.
 -python3 app.py
 
 open browser: http://127.0.0.1:5000
+
+## Demonstration
+
+### Server Running
+Flask backend hosting the secure voting application.
+
+![Server](screenshots/server.png)
+
+### Voter Authentication Interface
+Login page for credential verification.
+
+![Login](screenshots/login.png)
+
+### Vote Submission Interface
+Authenticated voter submitting candidate selection.
+
+![Vote](screenshots/vote.png)
+
+### Vote Recorded Confirmation
+Successful vote recording after encrypted and integrity-protected storage.
+
+![Success](screenshots/success.png)

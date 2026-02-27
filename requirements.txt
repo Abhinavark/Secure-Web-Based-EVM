@@ -1,0 +1,7 @@
+# External dependency
+Flask>=2.0
+
+# Python standard library modules used
+hashlib
+json
+random

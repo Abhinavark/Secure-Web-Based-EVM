@@ -21,9 +21,10 @@ This demonstrates core security properties of electronic voting:
 Note: Educational prototype with simplified parameters.
 
 # How to run?
+```bash
 -pip install flask
 -python3 app.py
-
+```
 open browser: http://127.0.0.1:5000
 
 ## Demonstration

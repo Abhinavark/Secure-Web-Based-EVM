@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect
 import json
-from crypto_utils import hash_vote, verify_hash
+from utils import hash_vote, verify_hash
 from elgamal import encrypt_vote   
 
 app = Flask(__name__)

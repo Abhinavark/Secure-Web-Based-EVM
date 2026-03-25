@@ -1,4 +1,12 @@
 {
   "voter1": "pass123",
-  "voter2": "secure456"
+  "voter2": "secure456",
+  "voter3": "qwerty789",
+  "voter4": "admin@2026",
+  "voter5": "vote_now!00",
+  "voter6": "alpha_voter_1",
+  "voter7": "beta_voter_2",
+  "voter8": "gamma_voter_3",
+  "voter9": "delta_voter_4",
+  "voter10": "epsilon_voter_5"
 }
